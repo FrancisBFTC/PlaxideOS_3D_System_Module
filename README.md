@@ -1,0 +1,2 @@
+# PlaxideOS_3D_System_Module
+O 3D System é um módulo para o sistema operacional PlaxideOS, porém é um binário a parte pra ser implementado no SO, o módulo estará com constante atualizações mas por enquanto as suas funcionalidades básicas são: Clonar/Copiar elemento, Aumentar/Diminuir largura, mover elemento para 4 direções, alterar cor das bordas e alterar cor interna do elemento. Este módulo será usado pelo PlaxideOS para ser gerado de forma programável pela linguagem Plax.
